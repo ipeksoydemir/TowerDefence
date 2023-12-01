@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 762349f33c69d4359a36af2655892f35, type: 3}
+  m_Name: Building_H
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5002102982819533637, guid: 4f51e9e9f8b494fb194b1c5ea404139b, type: 3}
+  price: 100
+  count: 0
+  icon: {fileID: 21300000, guid: 36e505b815bc44d44b49b2444cd99f2c, type: 3}
+  cells:
+  - {x: 0, y: 0, z: 0}
+  direction: 0
+  title: House
+  attackJob: {fileID: 0}
+  defenceJob: {fileID: 11400000, guid: 07e36549da0d2724493a69f558053ea8, type: 2}

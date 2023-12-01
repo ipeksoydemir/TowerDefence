@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb727ae9fc4eb4457928572e4c904332
+  m_SerializeEntries:
+  - m_GUID: 0fa4ab33eada542f796f65f59857d426
+    m_Address: Assets/Prefabs/Cell.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08f23550f04864063996b517a25861f4
+    m_Address: Assets/Prefabs/InventoryItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1c14b88a0664ba44833e08a31ab5b97
+    m_Address: Assets/Prefabs/StoreItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a992f57f99bd74f2a837e9b9ff86b86d
+    m_Address: Assets/Prefabs/EnemyCell.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c5d03aee59bc245109cfa416e6ea0d52, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 883374362f963476085b00af1cc2bb69, type: 2}
+    - {fileID: 11400000, guid: 057994e8e372445ff9c944d8e819810c, type: 2}
